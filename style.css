@@ -5,7 +5,7 @@
 }
 
 .container{
-   background: url(python-programming-programming-programming-language-code-hd-wallpaper-preview.jpg);
+   background: url(bg.jpg);
    height: 100vh;
    background-size: 100% 100%;
 } 
@@ -64,7 +64,7 @@
     user-select: none;
  }
  .center h1{
-    color: yellow;
+    color: rgb(68, 16, 190);
     font-size: 70px;
     font-weight: bold;
     width: 900px; 
